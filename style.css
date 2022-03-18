@@ -1,0 +1,30 @@
+
+.container{
+    width: 300px;
+    height: 400px;
+    box-sizing: border-box;
+    background-color: bisque;
+    border-width: 200px;
+    box-shadow: 3px 5px solid rgb(151, 49, 49);
+    border-radius: 50px;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    margin: auto5r;
+}
+img{
+    width: 150px;
+    margin-left: 70px;
+    margin-top: 30px;
+    border-radius: 100px;
+    
+}
+.details{
+padding:10px;
+margin-bottom: 10px;
+margin-top: 30px;
+text-align: center;
+}
+hr{
+    border:3px solid black;
+    width: 30%;
+}
