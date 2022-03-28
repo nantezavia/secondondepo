@@ -5,11 +5,10 @@
     box-sizing: border-box;
     background-color: bisque;
     border-width: 200px;
-    box-shadow: 3px 5px solid rgb(151, 49, 49);
     border-radius: 50px;
     border-top: 10px solid black;
-    border-bottom: 10px solid black;
-    margin: auto5r;
+    margin: auto ;
+    box-shadow: 2px 7px 2px gray;
 }
 img{
     width: 150px;
@@ -27,4 +26,12 @@ text-align: center;
 hr{
     border:3px solid black;
     width: 30%;
+}
+h3{
+    font-size: 20px;
+    
+}
+a:hover{
+    color:aqua;
+    background-color: brown;
 }
