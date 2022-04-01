@@ -6,3 +6,4 @@ else{
     console.log("your temperature is erratic, visit the nearest hospital");
 }
 
+const MIN_AGE =16;
